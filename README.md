@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ahmed Mohammed Abd Ellatif</h1>
 <h3 align="center">Hi, My name is Ahmed and I'm full-stack developer, I have two year experience in frontend by use HTML5 CSS3 javascript and jquery bootstrap and vuejs , and I have one years experience in backend by use php naitve oop and Mysql laravel framework</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdellatifss" alt="ahmedabdellatifss" /></a> </p>
 
 - 🔭 I’m currently working on [Invoices_system](https://github.com/ahmedabdellatifss/Invoices_system)
 
