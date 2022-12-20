@@ -7,7 +7,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohammed Abd Ellatif</h1>
-<h3 align="center"> My name is Ahmed and I'm full-stack developer, I have two year experience in frontend by use HTML5 CSS3 javascript and jquery bootstrap and vuejs , and I have one years experience in backend by use php naitve oop and Mysql laravel framework</h3>
+<h3 align="center">" A full-stack web developer. 
+  I finished my bachelor's degree in quality control and professional nano degree in Udacity, I know PHP and Javascript as basic languages
+
+I recently developed a web app Invoices system using laravel  that manages invoices, 
+
+I'd love to combine my passion for learning with my software development skills to continue building personalized products for people" I have two year experience in frontend by use HTML5 CSS3 javascript and jquery bootstrap and vuejs , and I have two years experience in backend by use php naitve oop and Mysql laravel framework</h3>
 
 
 - 🔭 I’m currently working on [Invoices_system](https://github.com/ahmedabdellatifss/Invoices_system)
