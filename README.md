@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohammed Abd Ellatif</h1>
 <h3 align="center">" A full-stack web developer. 
-  I finished my bachelor's degree in quality control and professional nano degree in Udacity, I know PHP and Javascript as basic languages
+I finished my bachelor's degree in quality control and Nano degree in web Professional in Udacity, I know PHP and Javascript as basic languages
 
 I recently developed a web app Invoices system using laravel  that manages invoices, 
 
