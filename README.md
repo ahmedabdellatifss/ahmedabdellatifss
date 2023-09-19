@@ -8,20 +8,21 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohammed Abd Ellatif</h1>
 <h3 align="center">" A full-stack web developer. 
-I finished my bachelor's degree in quality control and Nano degree in web Professional in Udacity, I know PHP and Javascript as basic languages
+Hello,
+I completed my bachelor's degree in quality control and a Nano degree in Professional Front-end Web Development through Udacity. I possess the ability to build web applications using Java and Spring Boot. As an experienced developer, my main languages of expertise include Java, PHP, and Javascript. Additionally, I possess knowledge of data structures, design patterns, and problem-solving techniques.
 
-I'm currently working on developing a Survey site using Laravel in backend and Vue.js and tailwind in frontend, 
+I'm currently working on developing an Employee_Management_System site using Springboot in the backend and React & Tailwind in the Frontend, 
 
-I'd love to combine my passion for learning with my software development skills to continue building personalized products for people" I have two year experience in frontend by use HTML5 CSS3 javascript and jquery bootstrap and vuejs , and I have two years experience in backend by use php naitve, oop, Mysql and laravel framework</h3>
+I'd love to combine my passion for learning with my software development skills to continue building personalized products for people" I have two years of experience in frontend by using HTML5 CSS3 javascript and jQuery bootstrap and vuejs, and I have two years experience in backend by use php native, oop, Mysql and laravel framework</h3>
 
 
-- 🔭 I’m currently working on [Invoices_system](https://github.com/ahmedabdellatifss/Invoices_system)
+- 🔭 I’m currently working on [Invoices_system](https://github.com/ahmedabdellatifss/Employee_Management_System)
 
 - 🌱 I’m currently learning **Design pattern and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedabdellatifss](https://github.com/ahmedabdellatifss)
 
-- 💬 Ask me about **php , laravel , javascript , vuejs , HTML , CSS ...**
+- 💬 Ask me about **Java, Spring Boot, PHP, laravel, javascript, vuejs, HTML, CSS ...**
 
 - 📫 How to reach me **ahmedmohmmed1992@gmail.com**
 
