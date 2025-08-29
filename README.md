@@ -1,6 +1,34 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center"> A Full-Stack Developer focused on building scalable, secure, and user-friendly applications.</h3>
+<h3 align="center"> I am a Full-Stack Developer focused on building scalable, secure, and user-friendly applications. My expertise spans backend development with Java & Spring Boot (Spring Security, Spring Cloud, JPA, Microservices) and frontend development with React.js, enabling me to deliver complete end-to-end solutions.
+
+I also have experience with Docker & Kubernetes for containerization and deployment, ensuring cloud-ready and production-grade applications.
+
+🔹 Technical Expertise
+
+Backend: Java (all versions), Spring Boot, Spring Security, Spring Cloud, MVC, JPA/Hibernate
+
+Frontend: React.js, JavaScript (ES6+), REST API integration
+
+DevOps & Tools: Docker, Kubernetes, Git, Jira, Postman
+
+Other: PHP, strong foundation in data structures, design patterns, and problem-solving
+
+🚀 Current Project
+I am currently developing a production-oriented full-stack cryptocurrency trading platform designed to teach and demonstrate real-world engineering.
+Features include:
+
+Secure authentication with 2FA
+
+Wallet & portfolio management
+
+Buy/sell flows and bank withdrawals
+
+Transaction history & search
+
+Integrated AI chatbot powered by Gemini and CoinGecko APIs
+
+I am passionate about continuous learning and innovation and aim to combine strong engineering practices with creativity to build impactful, real-world software solutions..</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdellatifss" alt="ahmedabdellatifss" /></a> </p>
 
