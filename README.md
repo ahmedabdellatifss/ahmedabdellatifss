@@ -8,7 +8,7 @@ I also have experience with Docker & Kubernetes for containerization and deploym
 
 Backend: Java (all versions), Spring Boot, Spring Security, Spring Cloud, MVC, JPA/Hibernate
 
-Frontend: React.js, JavaScript (ES6+), REST API integration
+Frontend: React.js, JavaScript (ES6+), REST API integration, Tailwind
 
 DevOps & Tools: Docker, Kubernetes, Git, Agile, Postman
 
