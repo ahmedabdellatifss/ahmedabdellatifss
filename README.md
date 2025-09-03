@@ -10,7 +10,7 @@ Backend: Java (all versions), Spring Boot, Spring Security, Spring Cloud, MVC, J
 
 Frontend: React.js, JavaScript (ES6+), REST API integration
 
-DevOps & Tools: Docker, Kubernetes, Git, Jira, Postman
+DevOps & Tools: Docker, Kubernetes, Git, Agile, Postman
 
 Other: PHP, strong foundation in data structures, design patterns, and problem-solving
 
